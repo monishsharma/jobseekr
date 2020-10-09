@@ -1,0 +1,2 @@
+export const IS_AUTHENTICATED = 'IS_AUTHENTICATED';
+export const SAVE_JOBS = 'SAVE_JOBS';
